@@ -1,2 +1,8 @@
 .ipynb_checkpoints
 *.ipynb
+
+# too big for GH - will probably split this into smaller files
+pos_18000.csv
+
+# don't track pycache files
+__pycache__
